@@ -1,16 +1,15 @@
 # fundamentals_of_data_visualization
-https://clauswilke.com/dataviz/index.html , https://github.com/clauswilke/dataviz
+[Book](https://clauswilke.com/dataviz/index.html), [GitHub](https://github.com/clauswilke/dataviz)
 
-# Progress (0 / 19, 2 / 105)
+[motor_trend_1974.csv](https://figshare.com/articles/dataset/Motor_Trend_Car_Road_Tests/3122005)
 
-## 2. Visualizing data: Mapping data onto aesthetics (2 / 3)
-* 2.3. ✅
-* 2.4. ✅
-* 2.5. ❌
+# Progress (1 / 19 🌟, 4 / 105 ✅)
 
-## 3. Coordinate systems and axes (0/3)
+## 2. Visualizing data: Mapping data onto aesthetics 🌟🌟🌟
+
+## 3. Coordinate systems and axes (1/3)
 * 3.1. ❌
-* 3.9. ❌
+* 3.9. ✅
 * 3.10. ❌
 
 ## 4. Color scales (0/6)
