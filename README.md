@@ -8,17 +8,16 @@
 ## 2. Visualizing data: Mapping data onto aesthetics 🌟🌟🌟
 
 ## 3. Coordinate systems and axes (1/3)
-* 3.1. ❌
+* 3.1. ✅
 * 3.9. ✅
 * 3.10. ❌
 
 ## 4. Color scales (0/6)
-* 4.1. ❌
-* 4.2. ❌
+* 4.1. ✅
+* 4.2. ✅
 * 4.3. ❌
 * 4.5. ❌
 * 4.7. ❌
-* 4.9. ❌
 
 ## 5. Directory (0/5)
 * 5.1. ❌
