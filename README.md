@@ -7,12 +7,12 @@
 
 ## 2. Visualizing data: Mapping data onto aesthetics 🌟🌟🌟
 
-## 3. Coordinate systems and axes (1/3)
+## 3. Coordinate systems and axes (2/3)
 * 3.1. ✅
 * 3.9. ✅
 * 3.10. ❌
 
-## 4. Color scales (0/6)
+## 4. Color scales (2/6)
 * 4.1. ✅
 * 4.2. ✅
 * 4.3. ❌
